@@ -1,7 +1,7 @@
 # Programm Freifunk Hessen Meetup 2016.2
 
 - [ ] kümmert euch!
-- [x] Planung abgeschlossen, Programm / Vorträge / Essen / Workshops stehen
+- [ ] Planung abgeschlossen, Programm / Vorträge / Essen / Workshops stehen
 ---
 
 ### Freitag
