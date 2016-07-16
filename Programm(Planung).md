@@ -16,7 +16,7 @@
 - [ ] Frühstück
 - [ ] 10:00 1. Vortrag
 - [ ] 11:00 1. Workshop
-- [ ] 12:00 . Vortrag
+- [ ] 12:00 2. Vortrag
 - [ ] 13:00 Mittagessen
 - [ ] 15:00 2. Workshop
 - [ ] 17:00 3. Vortrag
